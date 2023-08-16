@@ -1,0 +1,6 @@
+Junior full stack developer just graduated In CDI college with
+              some experience building responsive websites using frontend,
+              backend and database tools like Html5, CSS, JavaScript/TypeScript,
+              node.js, react.js, Java, C#, Python, SQL and NoSQL databases
+              (MySQL and Mongo DB) and more. I am responsible, creative,
+              reliable and good at problem solving.
