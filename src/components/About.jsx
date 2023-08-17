@@ -10,7 +10,7 @@ function About() {
             About
           </p>
         </div>
-        <p className="text-xl mt-20">
+        <p className="text-xl mt-2">
           Hello, I am Sergey Zelman Junior, a passionate and skilled full stack
           developer who has recently graduated from CDI College. With a strong
           foundation in web development, I possess the expertise to create

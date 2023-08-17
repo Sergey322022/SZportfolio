@@ -39,7 +39,7 @@ function Home() {
             <img
               src={HeroImage}
               alt="my profile"
-              className="rounded-2xl mx-auto w-2/3 md:w-full hover:scale-105 hover:rotate-1 duration-500"
+              className="rounded-2xl mx-auto w-2/3 md:w-full sm:hover:scale-105 sm:hover:rotate-1 duration-500 scale-75 sm:scale-100 "
             />
           </div>
         </div>
