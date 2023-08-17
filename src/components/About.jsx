@@ -16,12 +16,12 @@ function About() {
           foundation in web development, I possess the expertise to create
           dynamic and responsive websites. My experience encompasses a wide
           range of tools and technologies spanning both the frontend and backend
-          domains. Proficient in languages such as HTML5, CSS,
-          JavaScript/TypeScript, node.js, and Java, I am capable of crafting
+          domains. Proficient in languages such as HTML5, CSS, Bootstrap,
+          Tailwind, JavaScript/TypeScript and React.js, I am capable of crafting
           engaging user interfaces and seamless user experiences. On the
-          backend, I am well-versed in languages like C#, Python, and possess
-          the ability to work with databases such as MySQL and MongoDB, handling
-          data efficiently and securely.
+          backend, I am well-versed in languages like Node.js, C#, Java, and
+          possess the ability to work with databases such as MySQL and MongoDB,
+          handling data efficiently and securely.
         </p>
         <br />
         <p className="text-xl">
